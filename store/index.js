@@ -1,4 +1,6 @@
-export const state = () => ({
+git branch - M main
+git remote add origin https://github.com/mahfuj10/Vue_NUXT_TODO.git
+git push - u origin mainexport const state = () => ({
     tasks: [],
     counter: 333
 })

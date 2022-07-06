@@ -1,6 +1,8 @@
 <template>
   <main>
     <h3>Save your thing</h3>
+    <h3>Save your thing</h3>
+    <h3>Save your thing</h3>
     <article class="search-container">
       <input @keyup.enter="addTodo" v-model="text" type="search">
     </article>
